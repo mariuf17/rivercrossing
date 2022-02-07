@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	state "rivercrossing"
+	"github.com/mariuf17/rivercrossing"
 )
 
 func main() {
