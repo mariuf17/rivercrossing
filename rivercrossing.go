@@ -6,10 +6,6 @@ import (
 )
 
 func main() {
-
-}
-
-func main() {
 	fmt.Println(state.ViewState())
 
 	state.EnterBoat()
